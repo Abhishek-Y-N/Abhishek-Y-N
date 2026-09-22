@@ -41,13 +41,6 @@ I’m at the stage where I'm focused on **learning by building**, improving my f
 
 * Git & GitHub
 
-### Currently Learning
-
-* Programming fundamentals
-* Problem solving
-* Industry-relevant development skills
-
----
 
 ## 📌 Featured Project
 
