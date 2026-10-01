@@ -12,8 +12,6 @@ I’m at the stage where I'm focused on **learning by building**, improving my f
 
 * 🎓 Currently pursuing **MCA**
 * 💻 Interested in **Software Development**
-* 🔨 Built academic/personal projects using **PHP, HTML & CSS**
-* 🏋️ Worked on a **Gym Management System** project
 * 🌱 Currently improving my programming and development skills
 * 🎯 Looking for **internship / entry-level opportunities**
 * 📍 Based in **Pune, India**
@@ -36,6 +34,7 @@ I’m at the stage where I'm focused on **learning by building**, improving my f
 ### Database
 
 * MySQL
+* MongoDB
 
 ### Tools
 
